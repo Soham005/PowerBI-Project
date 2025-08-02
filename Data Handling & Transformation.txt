@@ -10,3 +10,5 @@ Data Transformation:-
     a. On this visual
     b. On this page
     c. On all pages
+9. Active and Inactive relationships
+10. 
