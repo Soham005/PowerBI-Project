@@ -2,6 +2,11 @@ Data Transformation:-
 1. Primary key = TEXT
 2. Typecasting data!
 3. Populate empty data (joins)
-4. Cardinality (conceptual)
-5. PK and FK (conceptual)
-6. Star schema
+4. Create new columns (if required)
+5. Cardinality (conceptual)
+6. PK and FK (conceptual)
+7. Star schema (Fact and Dimension tables concept)
+8. Types of Filtees
+    a. On this visual
+    b. On this page
+    c. On all pages
