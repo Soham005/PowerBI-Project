@@ -1,0 +1,5 @@
+Data Transformation:- 
+1. Primary key = TEXT
+2. Typecasting data!
+3. Populate empty data (joins)
+4. 
